@@ -53,8 +53,7 @@ This is a React application bootstrapped with Create React App. The main entry p
    ```
 
 ## References
-- [Create React App Docs](https://facebook.github.io/create-react-app/docs/getting-started)
-- [React Docs](https://reactjs.org/)
+// Документацію по Create React App та React шукайте онлайн, зовнішні посилання тут не підтримуються.
 
 ---
 _If any conventions or workflows are unclear, please provide feedback to improve these instructions._
